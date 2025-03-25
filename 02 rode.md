@@ -3,7 +3,12 @@
 ## **Prompt 01:**
 
 ```plaintext
-Actúa como un profesor de Sistemas y Aplicaciones Informáticas en un centro de formación profesional. Explica el concepto de virtualización en sistemas operativos y su importancia en la administración de servidores. La explicación debe estar enfocada en un nivel educativo de formación profesional. Usa ejemplos prácticos aplicados a entornos de servidores Linux y Windows. Presenta la información en formato de párrafos bien estructurados. Incluye ejemplos de herramientas utilizadas en virtualización como VMware, VirtualBox y Proxmox. Explica también el impacto de la virtualización en la eficiencia de los centros de datos.
+Actúa como un profesor de Sistemas y Aplicaciones Informáticas en un centro de formación profesional. Explica el
+ concepto de virtualización en sistemas operativos y su importancia en la administración de servidores. La
+ explicación debe estar enfocada en un nivel educativo de formación profesional. Usa ejemplos prácticos aplicados
+ a entornos de servidores Linux y Windows. Presenta la información en formato de párrafos bien estructurados.
+ Incluye ejemplos de herramientas utilizadas en virtualización como VMware, VirtualBox y Proxmox. Explica también
+ el impacto de la virtualización en la eficiencia de los centros de datos.
 ```
 
 ## **Prompt 02:**
