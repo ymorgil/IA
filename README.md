@@ -1,9 +1,10 @@
-# Índice repositorio de Inteligencia Artificial ![AI](https://img.shields.io/badge/AI-%2300B2A9.svg?style=flat-square&logo=python&logoColor=white)
+# Índice repositorio de Inteligencia Artificial [![AI Applications](https://img.shields.io/badge/AI%20Applications-%2300B2A9.svg?style=flat-square&logo=python&logoColor=white)](https://ymorgil.symbaloo.com/)
 
 1. [Introducción a la Inteligencia Artificial (IA)](#introducción-a-la-inteligencia-artificial)
-2. [Prompting](#prompting)
-3. [Modelo de prompt RODE](prompt/02%20rode.md)
-4. [Modelo de prompt 4 puntos](prompt/03%20Modelo%204p.md)
+2. [Aplicaciones de IA](https://ymorgil.symbaloo.com/)
+3. [Prompting](#prompting)
+4. [Modelo de prompt RODE](prompt/02%20rode.md)
+5. [Modelo de prompt 4 puntos](prompt/03%20Modelo%204p.md)
 
 # Introducción a la Inteligencia Artificial
 
@@ -67,5 +68,3 @@ Aquí tienes algunos ejemplos de prompts para ayudarte a comenzar.
 > **Ejemplo 3: Estilo Conversacional**: "Actúa como un experto en IA y responde a esta pregunta: ¿Qué es el aprendizaje supervisado?"
 
 # 👌 Aplicaciones de inteligencia artificial
-
-[![AI Applications](https://img.shields.io/badge/AI%20Applications-%2300B2A9.svg?style=flat-square&logo=python&logoColor=white)](https://ymorgil.symbaloo.com/)
