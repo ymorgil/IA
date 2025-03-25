@@ -2,8 +2,8 @@
 
 1. [Introducción a la Inteligencia Artificial (IA)](#introducción-a-la-inteligencia-artificial)
 2. [Prompting](#prompting)
-3. [2.1 Modelo RODE](prompt/02%20rode.md)
-4. [Modelo 4P](prompt/03%20Modelo%204p.md)
+3. [Modelo de prompt RODE](prompt/02%20rode.md)
+4. [Modelo de prompt 4 puntos](prompt/03%20Modelo%204p.md)
 
 # Introducción a la Inteligencia Artificial
 
