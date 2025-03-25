@@ -19,8 +19,7 @@ Depende del uso:
 > Evita el uso de términos técnicos complejos o de detalles excesivos sobre la arquitectura interna de Apache que no sean necesarios para estudiantes de primer curso. Mantén la explicación accesible y práctica, sin entrar en conceptos demasiado avanzados.
 
 > **Contexto Adicional:**
-
-## El público objetivo son estudiantes de primer curso de un ciclo formativo de administración de sistemas. Deben entender los conceptos de configuración de servidores web de forma práctica, sin sobrecargarlos con información técnica demasiado profunda. La explicación debe ser fácil de seguir para estudiantes con pocos conocimientos previos en administración de sistemas.
+> El público objetivo son estudiantes de primer curso de un ciclo formativo de administración de sistemas. Deben entender los conceptos de configuración de servidores web de forma práctica, sin sobrecargarlos con información técnica demasiado profunda. La explicación debe ser fácil de seguir para estudiantes con pocos conocimientos previos en administración de sistemas.
 
 # 📝Explicación Detallada del Modelo 4P
 
