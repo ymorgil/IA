@@ -3,7 +3,7 @@
 ## **Prompt 01:**
 
 ```plaintext
-Actúa como un profesor de Sistemas y Aplicaciones Informáticas en un centro de formación profesional. Explica el
+ Actúa como un profesor de Sistemas y Aplicaciones Informáticas en un centro de formación profesional. Explica el
  concepto de virtualización en sistemas operativos y su importancia en la administración de servidores. La
  explicación debe estar enfocada en un nivel educativo de formación profesional. Usa ejemplos prácticos aplicados
  a entornos de servidores Linux y Windows. Presenta la información en formato de párrafos bien estructurados.
@@ -14,7 +14,7 @@ Actúa como un profesor de Sistemas y Aplicaciones Informáticas en un centro de
 ## **Prompt 02:**
 
 ```plaintext
-Actúa como un experto en administración de sistemas informáticos, especializado en la implementación de servidores Linux. Explica de forma clara y detallada cómo configurar un servidor web Apache en un entorno Linux. Debes incluir los pasos necesarios, desde la instalación hasta la configuración básica, y proporcionar ejemplos de comandos en la terminal. Además, destaca las mejores prácticas de seguridad para asegurar el servidor web. Asegúrate de que la explicación sea comprensible para estudiantes de primer curso en un ciclo formativo de administración de sistemas, sin usar jerga técnica compleja.
+ Actúa como un experto en administración de sistemas informáticos, especializado en la implementación de servidores Linux. Explica de forma clara y detallada cómo configurar un servidor web Apache en un entorno Linux. Debes incluir los pasos necesarios, desde la instalación hasta la configuración básica, y proporcionar ejemplos de comandos en la terminal. Además, destaca las mejores prácticas de seguridad para asegurar el servidor web. Asegúrate de que la explicación sea comprensible para estudiantes de primer curso en un ciclo formativo de administración de sistemas, sin usar jerga técnica compleja.
 ```
 
 # 📝 **Explicación Paso a Paso:**
