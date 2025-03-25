@@ -65,3 +65,12 @@ Aquí tienes algunos ejemplos de prompts para ayudarte a comenzar.
 > **Ejemplo 2: Explicación Técnica**: "Explica cómo funciona un algoritmo de búsqueda en grafos con un ejemplo en Python."
 
 > **Ejemplo 3: Estilo Conversacional**: "Actúa como un experto en IA y responde a esta pregunta: ¿Qué es el aprendizaje supervisado?"
+
+# Aplicaciones de inteligencia artificial
+
+[APLICACIONES](https://ymorgil.symbaloo.com/)
+[<img src="https://run.pstmn.io/button.svg" alt="APPs de IA" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D10131015-0d9c66b3-5f1a-42ed-a5ca-379217bd629d%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+[<img src="" width="20" height="20" /> Ir a la página principal](https://www.ejemplo.com)
+
+[<i class="fas fa-home"></i> Ir a la página principal](https://www.ejemplo.com)
