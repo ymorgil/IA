@@ -5,7 +5,7 @@
 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 1 | <img src="https://chat.openai.com/favicon.ico" width="32" height="32" /> | [ChatGPT](https://chat.openai.com/) | Chat versátil que redacta, traduce, programa, explica conceptos y resuelve dudas. Modelo GPT‑4o con plan gratuito disponible. |
+| 1 | <img src="https://play-lh.googleusercontent.com/lmG9HlI0awHie0cyBieWXeNjpyXvHPwDBb8MNOVIyp0P8VEh95AiBHtUZSDVR3HLe3A" width="32" height="32" /> | [ChatGPT](https://chat.openai.com/) | Chat versátil que redacta, traduce, programa, explica conceptos y resuelve dudas. Modelo GPT‑4o con plan gratuito disponible. |
 | 2 | <img src="https://www.perplexity.ai/favicon.ico" width="32" height="32" /> | [Perplexity](https://www.perplexity.ai/) | Motor de búsqueda conversacional con fuentes. Gratis con límites diarios, ideal para investigación rápida y fiable. |
 | 3 | <img src="https://play-lh.googleusercontent.com/bTpNtZ6rYYX2SeI-wC4cnr7MJnOh2hjtgYu3UIrSxE09lM3GPl_Uhf9_Ih2Smje2bc0V=w240-h480" width="32" height="32" /> | [Gemini](https://gemini.google.com/) | Asistente conversacional de Google. Gratis con cuenta de Google. |
 | 4 | <img src="https://deepseek-espanol.chat/wp-content/uploads/2025/05/eepseek-espanol-logo.webp" width="32" height="32" /> | [DeepSeek](https://chat.deepseek.com/) | Chatbot multilingüe con capacidades matemáticas, razonamiento lógico y acceso sin registro. Totalmente gratuito. |
@@ -14,7 +14,7 @@
 | 7 | <img src="https://x.com/favicon.ico" width="32" height="32" /> | [Grok](https://x.com/) | IA conversacional de X (Twitter) con acceso a publicaciones en tiempo real. Gratis. |
 | 8 | <img src="https://aitechvibe.com/wp-content/uploads/2024/09/PI-AI.png" width="32" height="32" /> | [Pi](https://pi.ai/) | Chat emocional y empático diseñado para conversaciones personales. Fácil de usar y totalmente gratuito. |
 | 9 | <img src="https://play-lh.googleusercontent.com/QiocnvgPQ7NK1c8mEWzo6f3UhFjvq4-grZgkwz1XlMDnDKJz_84EW8gtdvd5XYw62LM=w240-h480" width="32" height="32" /> | [YouChat](https://you.com/) | Chat con búsqueda en vivo, capaz de escribir textos, generar código e imágenes. Tiene plan freemium. |
-| 10 | <img src="https://www.talkai.info/favicon.ico" width="32" height="32" /> | [TalkAI](https://www.talkai.info/) | Plataforma de chatbots con diferentes personalidades. Opción gratuita sin registro. |
+| 10 | <img src="https://play-lh.googleusercontent.com/fSU7IO8J8zt67BrdGMwFq1_yeGloxxfNV7J7kclSqMxMc8mkodxiv_tfleDSglPHcvs" width="32" height="32" /> | [TalkAI](https://www.talkai.info/) | Plataforma de chatbots con diferentes personalidades. Opción gratuita sin registro. |
 
 ## 🖼️ Generadores de Imágenes
 
