@@ -1,20 +1,19 @@
 ***
 # 💠Catálogo de herramientas de Inteligencia Artificial
 
-
 ## 🤖 Chatbots Inteligentes
 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
 | 1 | <img src="https://chat.openai.com/favicon.ico" width="32" height="32" /> | [ChatGPT](https://chat.openai.com/) | Chat versátil que redacta, traduce, programa, explica conceptos y resuelve dudas. Modelo GPT‑4o con plan gratuito disponible. |
 | 2 | <img src="https://www.perplexity.ai/favicon.ico" width="32" height="32" /> | [Perplexity](https://www.perplexity.ai/) | Motor de búsqueda conversacional con fuentes. Gratis con límites diarios, ideal para investigación rápida y fiable. |
-| 3 | <img src="https://chat.deepseek.com/favicon.ico" width="32" height="32" /> | [DeepSeek](https://chat.deepseek.com/) | Chatbot multilingüe con capacidades matemáticas, razonamiento lógico y acceso sin registro. Totalmente gratuito. |
-| 4 | <img src="https://claude.ai/favicon.ico" width="32" height="32" /> | [Claude](https://claude.ai/) | Asistente de IA de Anthropic centrado en la ética, excelente para redacción, resúmenes y comprensión de textos. |
-| 5 | <img src="https://pi.ai/favicon.ico" width="32" height="32" /> | [Pi](https://pi.ai/) | Chat emocional y empático diseñado para conversaciones personales. Fácil de usar y totalmente gratuito. |
-| 6 | <img src="https://you.com/favicon.ico" width="32" height="32" /> | [YouChat](https://you.com/) | Chat con búsqueda en vivo, capaz de escribir textos, generar código e imágenes. Tiene plan freemium. |
-| 7 | <img src="https://www.blackbox.ai/favicon.ico" width="32" height="32" /> | [Blackbox AI](https://www.blackbox.ai/) | Chat orientado a programación, compatible con múltiples lenguajes. Versión gratuita disponible. |
-| 8 | <img src="https://huggingface.co/front/favicon.ico" width="32" height="32" /> | [HuggingChat](https://huggingface.co/chat) | Chat de código abierto basado en modelos de comunidad. Gratuito y sin límites. |
-| 9 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Chatbot para programadores, con búsquedas técnicas y respuestas detalladas. Plan gratuito con funciones clave. |
+| 3 | <img src="https://play-lh.googleusercontent.com/bTpNtZ6rYYX2SeI-wC4cnr7MJnOh2hjtgYu3UIrSxE09lM3GPl_Uhf9_Ih2Smje2bc0V=w240-h480" width="32" height="32" /> | [Gemini](https://gemini.google.com/) | Asistente conversacional de Google. Gratis con cuenta de Google. |
+| 4 | <img src="https://deepseek-espanol.chat/wp-content/uploads/2025/05/eepseek-espanol-logo.webp" width="32" height="32" /> | [DeepSeek](https://chat.deepseek.com/) | Chatbot multilingüe con capacidades matemáticas, razonamiento lógico y acceso sin registro. Totalmente gratuito. |
+| 5 | <img src="https://claude.ai/favicon.ico" width="32" height="32" /> | [Claude](https://claude.ai/) | Asistente de IA de Anthropic centrado en la ética, excelente para redacción, resúmenes y comprensión de textos. |
+| 6 | <img src="https://copilot.microsoft.com/favicon.ico" width="32" height="32" /> | [Microsoft Copilot](https://copilot.microsoft.com/) | Asistente IA integrado en el ecosistema Microsoft. Gratuito con cuenta. |
+| 7 | <img src="https://x.com/favicon.ico" width="32" height="32" /> | [Grok](https://x.com/) | IA conversacional de X (Twitter) con acceso a publicaciones en tiempo real. Gratis. |
+| 8 | <img src="https://aitechvibe.com/wp-content/uploads/2024/09/PI-AI.png" width="32" height="32" /> | [Pi](https://pi.ai/) | Chat emocional y empático diseñado para conversaciones personales. Fácil de usar y totalmente gratuito. |
+| 9 | <img src="https://play-lh.googleusercontent.com/QiocnvgPQ7NK1c8mEWzo6f3UhFjvq4-grZgkwz1XlMDnDKJz_84EW8gtdvd5XYw62LM=w240-h480" width="32" height="32" /> | [YouChat](https://you.com/) | Chat con búsqueda en vivo, capaz de escribir textos, generar código e imágenes. Tiene plan freemium. |
 | 10 | <img src="https://www.talkai.info/favicon.ico" width="32" height="32" /> | [TalkAI](https://www.talkai.info/) | Plataforma de chatbots con diferentes personalidades. Opción gratuita sin registro. |
 
 ## 🖼️ Generadores de Imágenes
@@ -132,9 +131,39 @@
 | 83 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Hugging Face Spaces](https://huggingface.co/spaces) | Plataforma colaborativa para modelos IA. Gratuita. |
 | 84 | <img src="https://openwebui.ai/favicon.ico" width="32" height="32" /> | [Open WebUI](https://openwebui.ai/) | Administra modelos de lenguaje localmente. Gratis. |
 | 85 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | Autocompletado de código IA. Gratis. |
-| 86 | <img src="https://replit.com/favicon.ico" width="32" height="32" /> | [Replit Ghostwriter](https://replit.com/) | Asistente IA para codificación en Replit. Freemium. |
 | 87 | <img src="https://openai.com/favicon.ico" width="32" height="32" /> | [OpenAI Codex](https://openai.com/blog/openai-codex) | Motor IA para código de OpenAI. Acceso limitado. |
-| 88 | <img src="https://github.com/favicon.ico" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot) | Sugerencias inteligentes para código. De pago. |
 | 89 | <img src="https://ollama.ai/favicon.ico" width="32" height="32" /> | [Ollama](https://ollama.ai/) | Ejecuta LLM localmente con una sola línea. Gratis. |
 | 90 | <img src="https://modal.com/favicon.ico" width="32" height="32" /> | [Modal](https://modal.com/) | Infraestructura para desplegar IA y código a escala. Gratuito con límites. |
 
+
+## 🧑‍💻 IA para Programar (Top 10)
+
+| Nº | Icono | Nombre | Descripción |
+|:--:|:-----:|:------:|:------------|
+|101 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | Autocompletado de código en tiempo real. Gratuito. |
+|102 | <img src="https://github.com/favicon.ico" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot) | Sugerencias inteligentes de código. De pago. |
+|103 | <img src="https://replit.com/favicon.ico" width="32" height="32" /> | [Replit Ghostwriter](https://replit.com/) | Asistente de código para el entorno Replit. Freemium. |
+|104 | <img src="https://www.tabnine.com/favicon.ico" width="32" height="32" /> | [Tabnine](https://www.tabnine.com/) | Asistente IA para completado de código. Gratuito con límites. |
+|105 | <img src="https://openai.com/favicon.ico" width="32" height="32" /> | [OpenAI Codex](https://openai.com/blog/openai-codex) | Motor de IA que impulsa GitHub Copilot. Acceso limitado. |
+|106 | <img src="https://cursor.so/favicon.ico" width="32" height="32" /> | [Cursor](https://www.cursor.so/) | Editor de código con IA integrada para desarrolladores. Freemium. |
+|107 | <img src="https://www.askcodi.com/favicon.ico" width="32" height="32" /> | [AskCodi](https://www.askcodi.com/) | Generador de código, SQL, documentación y tests. Freemium. |
+|108 | <img src="https://codesquire.ai/favicon.ico" width="32" height="32" /> | [CodeSquire](https://codesquire.ai/) | Asistente de codificación para científicos de datos. De pago. |
+|109 | <img src="https://ai.google/static/images/favicon.ico" width="32" height="32" /> | [Google Gemini Code Assist](https://gemini.google.com/) | Generador de código y sugerencias por IA. Gratuito con cuenta Google. |
+|110 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Buscador con IA especializado en desarrollo y código. Gratis. |
+| 7 | <img src="https://www.blackbox.ai/favicon.ico" width="32" height="32" /> | [Blackbox AI](https://www.blackbox.ai/) | Chat orientado a programación, compatible con múltiples lenguajes. Versión gratuita disponible. |
+| 9 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Chatbot para programadores, con búsquedas técnicas y respuestas detalladas. Plan gratuito con funciones clave. |
+
+
+## 🧩 Recursos de Inteligencia Artificial (Top 10)
+
+| Nº | Icono | Nombre | Descripción |
+|:--:|:-----:|:------:|:------------|
+| 92 | <img src="https://github.com/favicon.ico" width="32" height="32" /> | [BERT](https://github.com/google-research/bert) | Modelo NLP preentrenado por Google. Código abierto. |
+| 93 | <img src="https://explorer.globe.engineer/favicon.ico" width="32" height="32" /> | [Globe](https://explorer.globe.engineer/) | Biblioteca visual con IA para explorar cualquier tema. Gratuita. |
+| 94 | <img src="https://perchance.org/favicon.ico" width="32" height="32" /> | [Perchance](https://perchance.org/ai-text-to-image-generator) | Generador IA de imágenes sin registro. Gratis. |
+| 95 | <img src="https://www.autodraw.com/favicon.ico" width="32" height="32" /> | [Autodraw](https://www.autodraw.com/) | Dibujo asistido por IA que interpreta y mejora bocetos. Gratis. |
+| 96 | <img src="https://www.chatpdf.com/favicon.ico" width="32" height="32" /> | [ChatPDF](https://www.chatpdf.com/) | Lee y consulta PDFs con IA. Ideal para artículos. Gratis. |
+| 97 | <img src="https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/inteligencia_artificial/favicon.ico" width="32" height="32" /> | [INTEF - IA](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/inteligencia_artificial/index.html) | Guía educativa sobre IA del INTEF. Acceso libre. |
+| 98 | <img src="https://educacion.bilateria.org/favicon.ico" width="32" height="32" /> | [Blog R-I-T-A](https://educacion.bilateria.org/prompts-educativos-creados-con-el-modelo-r-i-t-a) | Prompts educativos con IA en el entorno R-I-T-A. Gratis. |
+| 99 | <img src="https://prompthero.com/favicon.ico" width="32" height="32" /> | [Prompt HERO](https://prompthero.com/) | Repositorio de prompts para IA generativa. Gratuito. |
+|100 | <img src="https://runwayml.com/favicon.ico" width="32" height="32" /> | [Runway ML](https://runwayml.com/) | Herramienta creativa para generar vídeos e imágenes con IA. Freemium. |
