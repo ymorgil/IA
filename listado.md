@@ -2,7 +2,6 @@
 # 💠Catálogo de herramientas de Inteligencia Artificial
 
 ## 🤖 Chatbots Inteligentes
-
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
 | 1 | <img src="https://play-lh.googleusercontent.com/lmG9HlI0awHie0cyBieWXeNjpyXvHPwDBb8MNOVIyp0P8VEh95AiBHtUZSDVR3HLe3A" width="32" height="32" /> | [ChatGPT](https://chat.openai.com/) | Chat versátil que redacta, traduce, programa, explica conceptos y resuelve dudas. Modelo GPT‑4o con plan gratuito disponible. |
@@ -16,45 +15,70 @@
 | 9 | <img src="https://play-lh.googleusercontent.com/QiocnvgPQ7NK1c8mEWzo6f3UhFjvq4-grZgkwz1XlMDnDKJz_84EW8gtdvd5XYw62LM=w240-h480" width="32" height="32" /> | [YouChat](https://you.com/) | Chat con búsqueda en vivo, capaz de escribir textos, generar código e imágenes. Tiene plan freemium. |
 | 10 | <img src="https://play-lh.googleusercontent.com/fSU7IO8J8zt67BrdGMwFq1_yeGloxxfNV7J7kclSqMxMc8mkodxiv_tfleDSglPHcvs" width="32" height="32" /> | [TalkAI](https://www.talkai.info/) | Plataforma de chatbots con diferentes personalidades. Opción gratuita sin registro. |
 
-## 🖼️ Generadores de Imágenes
-
+## 🧑‍🏫 Educación (Mi Top 10)
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 11 | <img src="https://www.leonardo.ai/favicon.ico" width="32" height="32" /> | [Leonardo AI](https://www.leonardo.ai/) | Generación de imágenes de alta calidad para arte, diseño o videojuegos. Cuenta gratuita con créditos diarios. |
-| 12 | <img src="https://firefly.adobe.com/favicon.ico" width="32" height="32" /> | [Adobe Firefly](https://firefly.adobe.com/) | Herramienta de Adobe para generar imágenes a partir de texto. Freemium con funciones gratis. |
-| 13 | <img src="https://www.ideogram.ai/favicon.ico" width="32" height="32" /> | [Ideogram](https://www.ideogram.ai/) | Generador de imágenes con texto integrado. Gratuito, especializado en tipografía visual. |
-| 14 | <img src="https://www.bing.com/favicon.ico" width="32" height="32" /> | [Bing Image Creator](https://www.bing.com/images/create) | Generador de imágenes de Microsoft basado en DALL·E. Disponible con cuenta gratuita. |
-| 15 | <img src="https://playgroundai.com/favicon.ico" width="32" height="32" /> | [Playground AI](https://playgroundai.com/) | Plataforma para generar y editar imágenes estilo Midjourney o DALL·E. Tiene plan gratuito. |
-| 16 | <img src="https://www.craiyon.com/favicon.ico" width="32" height="32" /> | [Craiyon](https://www.craiyon.com/) | Antiguo DALL·E mini, permite generar imágenes rápidas desde texto. Gratuito. |
-| 17 | <img src="https://www.instantart.io/favicon.ico" width="32" height="32" /> | [InstantArt](https://www.instantart.io/) | Generación rápida de imágenes con múltiples estilos y configuraciones. Gratis con algunas limitaciones. |
-| 18 | <img src="https://app.artsmart.ai/favicon.ico" width="32" height="32" /> | [ArtSmart](https://app.artsmart.ai/) | IA creativa para generar imágenes profesionales. Tiene opción gratuita. |
-| 19 | <img src="https://www.getimg.ai/favicon.ico" width="32" height="32" /> | [Getimg AI](https://www.getimg.ai/) | Generador de imágenes y editor con herramientas de transformación. Ofrece créditos gratuitos al registrarse. |
-| 20 | <img src="https://www.fotor.com/favicon.ico" width="32" height="32" /> | [Fotor AI](https://www.fotor.com/features/ai-image-generator/) | Generador integrado en una suite de edición de imágenes. Gratuito con limitaciones. |
+| 11 | <img src="https://play-lh.googleusercontent.com/qWDLmYCI4Lqzq8J-LhtvWvp1HIPkJb2lqkHjduXM7tnCo7N1tmKxnYdaX7CS2_5pkDuW=w240-h480-rw" width="32" height="32" /> | [NotebookLM](https://notebooklm.google/) | Asistente de investigación de Google que analiza documentos, genera resúmenes, mapas mentales y “resúmenes de audio”. Ideal para extraer y organizar información didáctica. |
+| 12 | <img src="https://wpforms.com/wp-content/uploads/2024/08/google-ai-studio-logo.png" width="32" height="32" /> | [Google AI Studio](https://aistudio.google.com/gen-media) | Entorno de Google para crear, probar y personalizar prompts con modelos Gemini, ideal para generar recursos educativos y prototipos rápidos. |
+| 13 | <img src="https://chatpdf.com/apple-touch-icon.png" width="32" height="32" /> | [ChatPDF](https://www.chatpdf.com/) | Permite subir PDFs y consultarlos mediante IA, facilitando explicar, resumir y responder preguntas sobre textos largos. |
+| 14 | <img src="https://resources.finalsite.net/images/t_image_size_4/v1705691466/usd453org/h8owkbaouhh0jbckg0ud/Email_WebBadgeCircle.png" width="32" height="32" /> | [MagicSchool AI](https://www.magicschool.ai/) | Plataforma de IA para docentes que ayuda a planificar clases, crear recursos y reducir tareas administrativas. |
+| 15 | <img src="https://www.canva.com/favicon.ico" width="32" height="32" /> | [Canva Magic Studio](https://www.canva.com/magic-studio/) | Conjunto de herramientas IA para crear y editar presentaciones, vídeos e imágenes educativas. |
+| 16 | <img src="https://gamma.app/favicon.ico" width="32" height="32" /> | [Gamma](https://gamma.app/) | Plataforma para crear presentaciones y documentos interactivos impulsados por IA de forma rápida y visual. |
+| 17 | <img src="https://www.tome.app/favicon.ico" width="32" height="32" /> | [Tome](https://www.tome.app/) | Generador de presentaciones educativas a partir de texto. Tiene opción gratuita. |
+| 18 | <img src="https://images.genai.works/blob_1fde0c3d99.png" width="32" height="32" /> | [Slidesgo AI](https://www.slidesgo.com/ai-presentation-maker) | Creador de presentaciones con IA. Gratuito con plantillas de calidad. |
+| 19 | <img src="https://www.educationalappstore.com/images/upload/13252-logo-merlin-ai.png" width="32" height="32" /> | [Merlin](https://www.getmerlin.in/es) | Extensión de IA que integra un asistente inteligente en cualquier sitio web para generar, resumir o explicar contenido de forma instantánea. |
+| 20 | <img src="https://www.napkin.ai/favicon.ico" width="32" height="32" /> | [Napkin AI](https://www.napkin.ai/) | Convierte texto en visuales (diagramas, gráficos, infografías) editables y exportables en PPT, PNG, PDF o SVG, facilitando la comunicación visual de ideas. |
+
+## 🖼️ Generadores de Imágenes
+| Nº | Icono | Nombre | Descripción |
+|:--:|:-----:|:------:|:------------|
+| 21 | <img src="https://yt3.googleusercontent.com/a04AUXisIIWkI-Pj5zORQTiDNS9tALLmPc8pxuRT_aEHrCOUDsPQoLuh4QRbfgICortk7tBhyg=s900-c-k-c0x00ffffff-no-rj" width="32" height="32" /> | [Leonardo AI](https://www.leonardo.ai/) | Generación de imágenes de alta calidad para arte, diseño o videojuegos. Cuenta gratuita con créditos diarios. |
+| 22 | <img src="https://play-lh.googleusercontent.com/ggrlR5aqtwt0PkhgbX_3t_aIW8UYWHn1Rng_QKdoLUU9G-kqGefNOqt_rkLU1c3jbA=s48" width="32" height="32" /> | [Adobe Firefly](https://firefly.adobe.com/) | Herramienta de Adobe para generar imágenes a partir de texto. Freemium con funciones gratis. |
+| 23 | <img src="https://www.ideogram.ai/favicon.ico" width="32" height="32" /> | [Ideogram](https://www.ideogram.ai/) | Generador de imágenes con texto integrado. Gratuito, especializado en tipografía visual. |
+| 24 | <img src="https://www.bing.com/favicon.ico" width="32" height="32" /> | [Bing Image Creator](https://www.bing.com/images/create) | Generador de imágenes de Microsoft basado en DALL·E. Disponible con cuenta gratuita. |
+| 25 | <img src="https://play-lh.googleusercontent.com/bokU-UCUydUf-4YsWPjWisTrpR287_Gq1YsNX92ROGMvxN04bicMErfmK4uvW5OZzo7e" width="32" height="32" /> | [Microsoft Designer](https://designer.microsoft.com/) | Plataforma de diseño gráfico potenciada con IA para crear imágenes, posts y presentaciones profesionales fácilmente. |
+| 26 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtP4Gwp2lzS0ww9kwS_yr6T5Gtx6QO3am_Rw&s" width="32" height="32" /> | [Midjourney](https://www.midjourney.com/) | Generador de imágenes IA para ilustraciones, diagramas y materiales visuales atractivos. |
+| 27 | <img src="https://pbs.twimg.com/profile_images/1895499987498192896/a-Ooeay5_400x400.jpg" width="32" height="32" /> | [Recraft AI](https://www.recraft.ai/) | Herramienta de IA para generar y editar imágenes vectoriales, logotipos, iconos, mockups, eliminar fondos y crear patrones continuos de alta calidad. |
+| 28 | <img src="https://playgroundai.com/favicon.ico" width="32" height="32" /> | [Playground AI](https://playgroundai.com/) | Plataforma para generar y editar imágenes estilo Midjourney o DALL·E. Tiene plan gratuito. |
+| 29 | <img src="https://www.craiyon.com/favicon.ico" width="32" height="32" /> | [Craiyon](https://www.craiyon.com/) | Antiguo DALL·E mini, permite generar imágenes rápidas desde texto. Gratuito. |
+| 30 | <img src="https://app.artsmart.ai/favicon.ico" width="32" height="32" /> | [ArtSmart](https://app.artsmart.ai/) | IA creativa para generar imágenes profesionales. Tiene opción gratuita. |
 
 ## 🎞️ Generadores de Vídeo
+| Nº | Icono | Nombre | Descripción |
+|:--:|:-----:|:------:|:------------|
+| 31 | <img src="https://assets.wheelhouse.com/media/_solution_logo_04162024_679873.jpeg" width="32" height="32" /> | [Synthesia](https://www.synthesia.io/) | Crea vídeos con avatares realistas a partir de texto. Tiene versión gratuita limitada. |
+| 28 | <img src="https://docubase.mit.edu/wp-content/uploads/2020/04/runway-logo-420x420.png" width="32" height="32" /> | [Runway ML](https://runwayml.com/) | Edición y generación de vídeo con IA y modelos como Gen‑2. Cuenta gratuita disponible. |
+| 28 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRODNZnjD2-sfERyLlnbpCNECbFnt8DB6G61g&s" width="32" height="32" /> | [Pictory AI](https://pictory.ai/?el=2000b&htrafficsource=pictoryblog) | Plataforma de edición de vídeo con IA que convierte texto, URLs o grabaciones largas en vídeos profesionales con voces realistas, música y subtítulos automáticos. |
+| 29 | <img src="https://play-lh.googleusercontent.com/AQybb5Ro1vvBtYOWKxxdgrvalnLFIsx7dh50DDAQFpPtmrZ1A-5CKTTO2xAr_A-EZ_CX" width="32" height="32" /> | [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Herramienta avanzada de generación de vídeos con IA que transforma descripciones de texto o imágenes en clips realistas con movimiento natural y física precisa. |
+| 27 | <img src="https://www.heygen.com/favicon.ico" width="32" height="32" /> | [HeyGen](https://www.heygen.com/) | Crea vídeos de presentación con avatares realistas. Gratuito para pruebas. |
+| 22 | <img src="https://www.veed.io/favicon.ico" width="32" height="32" /> | [Veed.io](https://www.veed.io/) | Plataforma de edición de vídeo con voz AI y subtítulos. Freemium con funciones básicas gratis. |
+| 26 | <img src="https://www.flexclip.com/favicon.ico" width="32" height="32" /> | [FlexClip](https://www.flexclip.com/tools/ai-video-generator.html) | Herramienta de generación y edición de vídeos con IA. Freemium con opciones básicas. |
+| 30 | <img src="https://www.animaker.com/favicon.ico" width="32" height="32" /> | [Animaker AI](https://app.animaker.com/ai-video/prompt/) | Plataforma de creación de vídeos animados con IA que genera clips a partir de indicaciones de texto, eligiendo automáticamente música y estilo visual adecuados. |
+| 24 | <img src="https://www.invideo.io/favicon.ico" width="32" height="32" /> | [InVideo](https://www.invideo.io/) | Generación rápida de vídeos desde texto. Opción gratuita con marca de agua. |
+| 25 | <img src="https://www.elai.io/favicon.ico" width="32" height="32" /> | [Elai.io](https://www.elai.io/) | Crea vídeos educativos o corporativos con avatares IA. Plan gratuito limitado. |
+
+
+## 🎼 Música y Audio (Top 10)
 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 21 | <img src="https://www.synthesia.io/favicon.ico" width="32" height="32" /> | [Synthesia](https://www.synthesia.io/) | Crea vídeos con avatares realistas a partir de texto. Tiene versión gratuita limitada. |
-| 22 | <img src="https://www.veed.io/favicon.ico" width="32" height="32" /> | [Veed.io](https://www.veed.io/) | Plataforma de edición de vídeo con voz AI y subtítulos. Freemium con funciones básicas gratis. |
-| 23 | <img src="https://www.pictory.ai/favicon.ico" width="32" height="32" /> | [Pictory](https://www.pictory.ai/) | Convierte texto o artículos en vídeos breves. Plan gratuito con funciones clave. |
-| 24 | <img src="https://www.invideo.io/favicon.ico" width="32" height="32" /> | [InVideo](https://www.invideo.io/) | Generación rápida de vídeos desde texto. Opción gratuita con marca de agua. |
-| 25 | <img src="https://www.elai.io/favicon.ico" width="32" height="32" /> | [Elai.io](https://www.elai.io/) | Crea vídeos educativos o corporativos con avatares IA. Plan gratuito limitado. |
-| 26 | <img src="https://www.flexclip.com/favicon.ico" width="32" height="32" /> | [FlexClip](https://www.flexclip.com/tools/ai-video-generator.html) | Herramienta de generación y edición de vídeos con IA. Freemium con opciones básicas. |
-| 27 | <img src="https://www.heygen.com/favicon.ico" width="32" height="32" /> | [HeyGen](https://www.heygen.com/) | Crea vídeos de presentación con avatares realistas. Gratuito para pruebas. |
-| 28 | <img src="https://runwayml.com/favicon.ico" width="32" height="32" /> | [Runway ML](https://runwayml.com/) | Edición y generación de vídeo con IA y modelos como Gen‑2. Cuenta gratuita disponible. |
-| 29 | <img src="https://www.colossyan.com/favicon.ico" width="32" height="32" /> | [Colossyan](https://www.colossyan.com/) | Plataforma para crear vídeos explicativos a partir de guiones. Tiene opción freemium. |
-| 30 | <img src="https://www.lumen5.com/favicon.ico" width="32" height="32" /> | [Lumen5](https://www.lumen5.com/) | Convierte artículos o textos en vídeos animados. Plan gratuito con limitaciones. |
+| 71 | <img src="https://elevenlabs.io/favicon.ico" width="32" height="32" /> | [ElevenLabs](https://elevenlabs.io/) | Voz sintética hiperrealista desde texto. Freemium. |
+| 72 | <img src="https://voicemod.net/favicon.ico" width="32" height="32" /> | [Voicemod AI](https://voicemod.net/) | Cambio de voz en tiempo real para streaming. Freemium. |
+| 73 | <img src="https://suno.ai/favicon.ico" width="32" height="32" /> | [Suno AI](https://suno.ai/) | Genera canciones completas con IA. Freemium. |
+| 74 | <img src="https://diff.rhythm/favicon.ico" width="32" height="32" /> | [DiffRhythm](https://robotbuilders.net/) | Crea canciones con IA en solo segundos. Freemium. |
+| 75 | <img src="https://udio.ai/favicon.ico" width="32" height="32" /> | [Udio AI](https://udio.ai/) | Producción musical IA sencilla y rápida. Freemium. |
+| 76 | <img src="https://soundraw.io/favicon.ico" width="32" height="32" /> | [Soundraw](https://soundraw.io/) | Composición musical personalizada por IA. Freemium. |
+| 77 | <img src="https://boomy.com/favicon.ico" width="32" height="32" /> | [Boomy](https://boomy.com/) | Crea música en segundos y publícala. Freemium. |
+| 78 | <img src="https://aiva.ai/favicon.ico" width="32" height="32" /> | [AIVA](https://aiva.ai/) | Compositor IA de música instrumental. Freemium. |
+| 79 | <img src="https://voice.ai/favicon.ico" width="32" height="32" /> | [Voice.ai](https://voice.ai/) | Clonación y modulación de voz. Freemium. |
+| 80 | <img src="https://beatbot.fm/favicon.ico" width="32" height="32" /> | [Beatbot](https://beatbot.fm/) | Crea canciones con letra y voz. Freemium. |
 
 ## 🧑‍🏫 Educación y Generadores de Clases
 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 31 | <img src="https://magicschool.ai/favicon.ico" width="32" height="32" /> | [MagicSchool AI](https://www.magicschool.ai/) | Herramienta para docentes: genera exámenes, actividades y rúbricas. Cuenta gratuita disponible. |
 | 32 | <img src="https://www.khanacademy.org/favicon.ico" width="32" height="32" /> | [Khanmigo](https://www.khanacademy.org/khan-labs) | Tutor virtual de Khan Academy para estudiantes y profesores. Acceso gratuito por invitación. |
 | 33 | <img src="https://www.socrative.com/favicon.ico" width="32" height="32" /> | [Socrative](https://www.socrative.com/) | Plataforma de evaluación con ayuda IA. Versión gratuita para profesores. |
-| 34 | <img src="https://www.tome.app/favicon.ico" width="32" height="32" /> | [Tome](https://www.tome.app/) | Generador de presentaciones educativas a partir de texto. Tiene opción gratuita. |
-| 35 | <img src="https://www.slidesgo.com/favicon.ico" width="32" height="32" /> | [Slidesgo AI](https://www.slidesgo.com/ai-presentation-maker) | Creador de presentaciones con IA. Gratuito con plantillas de calidad. |
 | 36 | <img src="https://www.edpuzzle.com/favicon.ico" width="32" height="32" /> | [Edpuzzle](https://www.edpuzzle.com/) | Plataforma para crear vídeos interactivos educativos. Gratis con funciones básicas. |
 | 37 | <img src="https://www.teachermatic.com/favicon.ico" width="32" height="32" /> | [Teachermatic](https://www.teachermatic.com/) | IA educativa que genera informes, rúbricas, lecciones. Tiene opción freemium. |
 | 38 | <img src="https://www.curipod.com/favicon.ico" width="32" height="32" /> | [Curipod](https://www.curipod.com/) | Genera actividades y presentaciones con IA. Ideal para enseñanza activa. |
@@ -68,13 +92,12 @@
 | 41 | <img src="https://www.khanacademy.org/favicon.ico" width="32" height="32" /> | [Khanmigo](https://khanacademy.org/) | Tutor IA de Khan Academy para estudiantes y profesores. Freemium. |
 | 42 | <img src="https://chat.openai.com/favicon.ico" width="32" height="32" /> | [ChatGPT Study Mode](https://chat.openai.com/) | Modo educativo con preguntas socráticas para aprendizaje activo. Freemium. |
 | 43 | <img src="https://www.tome.app/favicon.ico" width="32" height="32" /> | [Tome AI](https://tome.app/) | Narrativa visual y presentaciones educativas con IA. Freemium. |
-| 44 | <img src="https://magicschool.ai/favicon.ico" width="32" height="32" /> | [Magic School AI](https://magicschool.ai/) | Plataforma interactiva IA para clases. Freemium. |
 | 45 | <img src="https://educhat.top/favicon.ico" width="32" height="32" /> | [EduChat](https://educhat.top/) | LLM open‑source para enseñanza socrática. Gratis. |
 | 46 | <img src="https://vocadapt.ai/favicon.ico" width="32" height="32" /> | [VocAdapt](https://vocadapt.ai/) | Personaliza contenido de aprendizaje según nivel lingüístico. Freemium. |
 | 47 | <img src="https://postshot.com/favicon.ico" width="32" height="32" /> | [Postshot](https://postshot.com/) | Crea modelos 3D desde vídeo para enseñanza. Freemium. |
 | 48 | <img src="https://onetask.ai/favicon.ico" width="32" height="32" /> | [OneTask](https://onetask.ai/) | Gestión de tareas con IA para perfiles neurodivergentes. Freemium. |
 | 49 | <img src="https://timesentry.ai/favicon.ico" width="32" height="32" /> | [TimeSentry](https://timesentry.ai/) | Control del tiempo y facturación con IA. Freemium. |
-| 50 | <img src="https://gamma.app/favicon.ico" width="32" height="32" /> | [Gamma AI](https://gamma.app/) | Diseña presentaciones con IA. Freemium. |
+
 
 
 ## 🚀 Automatización y Productividad (Top 10)
@@ -88,7 +111,6 @@
 | 55 | <img src="https://notion.so/favicon.ico" width="32" height="32" /> | [Notion AI](https://notion.so/) | Asistente IA para notas, resúmenes, generación de contenido. Freemium. |
 | 56 | <img src="https://fireflies.ai/favicon.ico" width="32" height="32" /> | [Fireflies.ai](https://fireflies.ai/) | Transcribe reuniones y genera resúmenes. Freemium. |
 | 57 | <img src="https://taskade.com/favicon.ico" width="32" height="32" /> | [Taskade](https://taskade.com/) | Planificación y colaboración con IA. Freemium. |
-| 58 | <img src="https://cursor.com/favicon.ico" width="32" height="32" /> | [Cursor](https://cursor.com/) | Asistente de programación IA. Freemium. |
 | 59 | <img src="https://scalenut.com/favicon.ico" width="32" height="32" /> | [Scalenut](https://scalenut.com/) | Investigación y redacción asistida. Freemium. |
 | 60 | <img src="https://buffer.com/favicon.ico" width="32" height="32" /> | [Buffer AI Assistant](https://buffer.com/) | Generación y programación de contenido social. Freemium. |
 
@@ -107,20 +129,14 @@
 | 69 | <img src="https://supernormal.com/favicon.ico" width="32" height="32" /> | [Supernormal](https://supernormal.com/) | Minutas de reuniones automáticas. Freemium. |
 | 70 | <img src="https://typedream.com/favicon.ico" width="32" height="32" /> | [Typedream AI](https://typedream.com/) | Editor web IA estilo Notion. Freemium. |
 
-## 🎼 Música y Audio (Top 10)
-
+## 🛠️ Otras Herramientas IA (Top 10)
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 71 | <img src="https://elevenlabs.io/favicon.ico" width="32" height="32" /> | [ElevenLabs](https://elevenlabs.io/) | Voz sintética hiperrealista desde texto. Freemium. |
-| 72 | <img src="https://voicemod.net/favicon.ico" width="32" height="32" /> | [Voicemod AI](https://voicemod.net/) | Cambio de voz en tiempo real para streaming. Freemium. |
-| 73 | <img src="https://suno.ai/favicon.ico" width="32" height="32" /> | [Suno AI](https://suno.ai/) | Genera canciones completas con IA. Freemium. |
-| 74 | <img src="https://diff.rhythm/favicon.ico" width="32" height="32" /> | [DiffRhythm](https://robotbuilders.net/) | Crea canciones con IA en solo segundos. Freemium. |
-| 75 | <img src="https://udio.ai/favicon.ico" width="32" height="32" /> | [Udio AI](https://udio.ai/) | Producción musical IA sencilla y rápida. Freemium. |
-| 76 | <img src="https://soundraw.io/favicon.ico" width="32" height="32" /> | [Soundraw](https://soundraw.io/) | Composición musical personalizada por IA. Freemium. |
-| 77 | <img src="https://boomy.com/favicon.ico" width="32" height="32" /> | [Boomy](https://boomy.com/) | Crea música en segundos y publícala. Freemium. |
-| 78 | <img src="https://aiva.ai/favicon.ico" width="32" height="32" /> | [AIVA](https://aiva.ai/) | Compositor IA de música instrumental. Freemium. |
-| 79 | <img src="https://voice.ai/favicon.ico" width="32" height="32" /> | [Voice.ai](https://voice.ai/) | Clonación y modulación de voz. Freemium. |
-| 80 | <img src="https://beatbot.fm/favicon.ico" width="32" height="32" /> | [Beatbot](https://beatbot.fm/) | Crea canciones con letra y voz. Freemium. |
+| 26 | <img src="https://cleanup.pictures/favicon.ico" width="32" height="32" /> | [Cleanup.pictures](https://cleanup.pictures/) | Herramienta IA para eliminar objetos no deseados y retoques en fotografías con resultados naturales y sin complicaciones. |
+| 27 | <img src="https://www.autodraw.com/favicon.ico" width="32" height="32" /> | [AutoDraw](https://www.autodraw.com/) | Aplicación web que combina dibujo a mano alzada con IA para convertir bocetos en ilustraciones limpias y profesionales. |
+| 24 | <img src="https://es.vectorizer.ai/favicon.ico" width="32" height="32" /> | [Vectorizer AI](https://es.vectorizer.ai/) | Herramienta de IA para convertir imágenes rasterizadas en gráficos vectoriales de alta calidad de forma automática y rápida. |
+| 29 | <img src="https://www.colossyan.com/favicon.ico" width="32" height="32" /> | [Colossyan](https://www.colossyan.com/) | Plataforma para crear vídeos explicativos a partir de guiones. Tiene opción freemium. |
+| 30 | <img src="https://www.lumen5.com/favicon.ico" width="32" height="32" /> | [Lumen5](https://www.lumen5.com/) | Convierte artículos o textos en vídeos animados. Plan gratuito con limitaciones. |
 
 ## 🧠 Modelos y Código (Top 10)
 
@@ -162,8 +178,7 @@
 | 93 | <img src="https://explorer.globe.engineer/favicon.ico" width="32" height="32" /> | [Globe](https://explorer.globe.engineer/) | Biblioteca visual con IA para explorar cualquier tema. Gratuita. |
 | 94 | <img src="https://perchance.org/favicon.ico" width="32" height="32" /> | [Perchance](https://perchance.org/ai-text-to-image-generator) | Generador IA de imágenes sin registro. Gratis. |
 | 95 | <img src="https://www.autodraw.com/favicon.ico" width="32" height="32" /> | [Autodraw](https://www.autodraw.com/) | Dibujo asistido por IA que interpreta y mejora bocetos. Gratis. |
-| 96 | <img src="https://www.chatpdf.com/favicon.ico" width="32" height="32" /> | [ChatPDF](https://www.chatpdf.com/) | Lee y consulta PDFs con IA. Ideal para artículos. Gratis. |
 | 97 | <img src="https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/inteligencia_artificial/favicon.ico" width="32" height="32" /> | [INTEF - IA](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/inteligencia_artificial/index.html) | Guía educativa sobre IA del INTEF. Acceso libre. |
 | 98 | <img src="https://educacion.bilateria.org/favicon.ico" width="32" height="32" /> | [Blog R-I-T-A](https://educacion.bilateria.org/prompts-educativos-creados-con-el-modelo-r-i-t-a) | Prompts educativos con IA en el entorno R-I-T-A. Gratis. |
 | 99 | <img src="https://prompthero.com/favicon.ico" width="32" height="32" /> | [Prompt HERO](https://prompthero.com/) | Repositorio de prompts para IA generativa. Gratuito. |
-|100 | <img src="https://runwayml.com/favicon.ico" width="32" height="32" /> | [Runway ML](https://runwayml.com/) | Herramienta creativa para generar vídeos e imágenes con IA. Freemium. |
+| 20 | <img src="https://www.fotor.com/favicon.ico" width="32" height="32" /> | [Fotor AI](https://www.fotor.com/features/ai-image-generator/) | Generador integrado en una suite de edición de imágenes. Gratuito con limitaciones. |
