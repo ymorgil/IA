@@ -50,4 +50,12 @@ NOTAS:
 ***  
 
 # 💠Generar el podcats
-Céntrense en explicar el contenido de forma clara y amena, como si se tratara de un episodio de podcast divulgativo. No omitan detalles importantes y eviten condensar en exceso. El resumen debe tener ritmo, ejemplos y mantener una duración de al menos 10 minutos. Usen un tono cercano, como si hablaran con una audiencia general interesada en el tema, y sigan la estructura del texto original.
+Crear un episodio de podcast divulgativo cumpliendo estas reglas:
+
+1. La duración final debe ser superior a 10 minutos (al menos 600 segundos). Calcula la duración estimando una velocidad media de locución de 150 palabras por minuto, por lo que el guion debe contener un mínimo de 1.500 palabras.
+2. Si el resultado es más corto de esa duración estimada, vuelve a generarlo automáticamente añadiendo más explicaciones, ejemplos, contexto histórico, anécdotas y comparaciones hasta superar el mínimo.
+3. Mantén un tono cercano, claro y ameno, como si estuvieras hablando con una audiencia general interesada en el tema.
+4. No omitas detalles relevantes y añade información complementaria para facilitar la comprensión, incluso si no está presente en el texto original.
+5. Organiza el guion con un ritmo natural, transiciones suaves y un desarrollo fluido.
+6. Al final de cada generación, indica el número aproximado de palabras y la duración estimada en minutos y segundos.
+7. Si no alcanza los 10 minutos, no entregues el resultado y repite el proceso hasta que sí lo cumpla.
