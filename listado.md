@@ -26,7 +26,7 @@
 | 16 | <img src="https://gamma.app/favicon.ico" width="32" height="32" /> | [Gamma](https://gamma.app/) | Plataforma para crear presentaciones y documentos interactivos impulsados por IA de forma rápida y visual. |
 | 17 | <img src="https://www.tome.app/favicon.ico" width="32" height="32" /> | [Tome](https://www.tome.app/) | Generador de presentaciones educativas a partir de texto. Tiene opción gratuita. |
 | 18 | <img src="https://images.genai.works/blob_1fde0c3d99.png" width="32" height="32" /> | [Slidesgo AI](https://www.slidesgo.com/ai-presentation-maker) | Creador de presentaciones con IA. Gratuito con plantillas de calidad. |
-| 19 | <img src="https://www.educationalappstore.com/images/upload/13252-logo-merlin-ai.png" width="32" height="32" /> | [Merlin](https://www.getmerlin.in/es) | Extensión de IA que integra un asistente inteligente en cualquier sitio web para generar, resumir o explicar contenido de forma instantánea. |
+| 19 | <img src="https://www.beautiful.ai/favicon.ico" width="32" height="32" /> | [Beautiful AI](https://www.beautiful.ai/) | Plataforma de presentaciones con IA que genera diapositivas profesionales mediante plantillas inteligentes, formato automático y asistencia de diseño en tiempo real. Ofrece colaboración en equipo, control de marca y analíticas de visualización. |
 | 20 | <img src="https://www.napkin.ai/favicon.ico" width="32" height="32" /> | [Napkin AI](https://www.napkin.ai/) | Convierte texto en visuales (diagramas, gráficos, infografías) editables y exportables en PPT, PNG, PDF o SVG, facilitando la comunicación visual de ideas. |
 
 ## 🖼️ Generadores de Imágenes
@@ -74,64 +74,49 @@
 ## 🚀 Automatización y Productividad (Top 10) 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-| 51 | <img src="https://n8n.io/favicon.ico" width="32" height="32" /> | [N8N](https://n8n.io/) | Automatización de flujos y tareas mediante IA. Open‑source. |
-| 52 | <img src="https://zapier.com/favicon.ico" width="32" height="32" /> | [Zapier AI](https://zapier.com/) | Automatización de tareas entre aplicaciones con IA. Freemium. |
-| 53 | <img src="https://agpt.co/favicon.ico" width="32" height="32" /> | [AutoGPT](https://agpt.co/) | Agente autónomo que ejecuta tareas encadenadas. Open‑source. |
-| 55 | <img src="https://notion.so/favicon.ico" width="32" height="32" /> | [Notion AI](https://notion.so/) | Asistente IA para notas, resúmenes, generación de contenido. Freemium. |
-| 57 | <img src="https://taskade.com/favicon.ico" width="32" height="32" /> | [Taskade](https://taskade.com/) | Planificación y colaboración con IA. Freemium. |
-| 59 | <img src="https://scalenut.com/favicon.ico" width="32" height="32" /> | [Scalenut](https://scalenut.com/) | Investigación y redacción asistida. Freemium. |
-| 60 | <img src="https://buffer.com/favicon.ico" width="32" height="32" /> | [Buffer AI Assistant](https://buffer.com/) | Generación y programación de contenido social. Freemium. |
-| 63 | <img src="https://inkforall.com/favicon.ico" width="32" height="32" /> | [INK](https://inkforall.com/) | Escritor IA optimizado para SEO y marketing. Freemium. |
-| 64 | <img src="https://mixo.io/favicon.ico" width="32" height="32" /> | [Mixo](https://mixo.io/) | Crea webs en una frase usando IA. Freemium. |
-| 65 | <img src="https://krisp.ai/favicon.ico" width="32" height="32" /> | [Krisp](https://krisp.ai/) | Cancela ruido de fondo en llamadas con IA. Freemium. |
-| 66 | <img src="https://durable.co/favicon.ico" width="32" height="32" /> | [Durable](https://durable.co/) | Construye sitios web instantáneos con IA. Freemium. |
-| 68 | <img src="https://magai.co/favicon.ico" width="32" height="32" /> | [Magai](https://magai.co/) | Gestión multichat IA tipo ChatGPT con historial. Freemium. |
-| 69 | <img src="https://supernormal.com/favicon.ico" width="32" height="32" /> | [Supernormal](https://supernormal.com/) | Minutas de reuniones automáticas. Freemium. |
-| 70 | <img src="https://typedream.com/favicon.ico" width="32" height="32" /> | [Typedream AI](https://typedream.com/) | Editor web IA estilo Notion. Freemium. |
+| 51 | <img src="https://www.toolify.ai/favicon.ico" width="32" height="32" /> | [Toolify AI](https://www.toolify.ai/es/) | Directorio de herramientas IA organizadas por categorías, actualizado diariamente para descubrir y comparar soluciones de IA.|
+| 52 | <img src="https://n8n.io/favicon.ico" width="32" height="32" /> | [N8N](https://n8n.io/) | Automatización de flujos y tareas mediante IA. Open‑source. |
+| 53 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF3HEqgiTzLWQyy6BSgadcZ1gILbpIIbLT1Q&s" width="32" height="32" /> | [Zapier AI](https://zapier.com/) | Automatización de tareas entre aplicaciones con IA. Freemium. |
+| 54 | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="32" height="32" /> | [Notion AI](https://notion.so/) | Asistente IA para notas, resúmenes, generación de contenido. Freemium. |
+| 55 | <img src="https://assets.ifttt.com/images/channels/42/icons/monochrome_large.webp" width="32" height="32" /> | [Buffer AI Assistant](https://buffer.com/) | Generación y programación de contenido social. Freemium. |
+| 56 | <img src="https://ahrefs.com/favicon.ico" width="32" height="32" /> | [Ahrefs Writing Tools](https://ahrefs.com/es/writing-tools/) | Conjunto gratuito de herramientas IA para redactar: parafraseador, generador de párrafos, corrector gramatical, humanizador de texto y más.|
+| 57 | <img src="https://agentgpt.reworkd.ai/favicon.ico" width="32" height="32" /> | [AgentGPT (Reworkd)](https://agentgpt.reworkd.ai/es) | Plataforma de IA que permite ensamblar, configurar y desplegar agentes autónomos en el navegador, capaces de definir objetivos, ejecutar tareas y aprender de los resultados.|
+| 58 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsGsvOcjzROwt4z9ZGo-wk_qNYcQ9IvVRCw&s" width="32" height="32" /> | [Rytr](https://rytr.me/?via=toolify) | Herramienta IA económica y eficaz, ideal para redacción rápida en múltiples idiomas, con editor limpio y extensiones para productividad.|
+| 59 | <img src="https://taskade.com/favicon.ico" width="32" height="32" /> | [Taskade](https://taskade.com/) | Planificación y colaboración con IA. Freemium. |
+| 60 | <img src="https://janitorai.com/favicon.ico" width="32" height="32" /> | [Janitor AI](https://janitorai.com/?utm_source=toolify) | Plataforma para crear e interactuar con personajes basados en chatbots IA personalizables; permite experiencias inmersivas, configuración de personalidad detallada, integración con APIs externas.|
 
 
 ## 🧑‍💻 IA para Programar (Top 10) 
-
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
-|61 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | Autocompletado de código en tiempo real. Gratuito. |
-|102 | <img src="https://github.com/favicon.ico" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot) | Sugerencias inteligentes de código. De pago. |
-|103 | <img src="https://replit.com/favicon.ico" width="32" height="32" /> | [Replit Ghostwriter](https://replit.com/) | Asistente de código para el entorno Replit. Freemium. |
-|104 | <img src="https://www.tabnine.com/favicon.ico" width="32" height="32" /> | [Tabnine](https://www.tabnine.com/) | Asistente IA para completado de código. Gratuito con límites. |
-|105 | <img src="https://openai.com/favicon.ico" width="32" height="32" /> | [OpenAI Codex](https://openai.com/blog/openai-codex) | Motor de IA que impulsa GitHub Copilot. Acceso limitado. |
-|106 | <img src="https://cursor.so/favicon.ico" width="32" height="32" /> | [Cursor](https://www.cursor.so/) | Editor de código con IA integrada para desarrolladores. Freemium. |
-|107 | <img src="https://www.askcodi.com/favicon.ico" width="32" height="32" /> | [AskCodi](https://www.askcodi.com/) | Generador de código, SQL, documentación y tests. Freemium. |
-|108 | <img src="https://codesquire.ai/favicon.ico" width="32" height="32" /> | [CodeSquire](https://codesquire.ai/) | Asistente de codificación para científicos de datos. De pago. |
-|109 | <img src="https://ai.google/static/images/favicon.ico" width="32" height="32" /> | [Google Gemini Code Assist](https://gemini.google.com/) | Generador de código y sugerencias por IA. Gratuito con cuenta Google. |
-|110 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Buscador con IA especializado en desarrollo y código. Gratis. |
-| 7 | <img src="https://www.blackbox.ai/favicon.ico" width="32" height="32" /> | [Blackbox AI](https://www.blackbox.ai/) | Chat orientado a programación, compatible con múltiples lenguajes. Versión gratuita disponible. |
-| 9 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Chatbot para programadores, con búsquedas técnicas y respuestas detalladas. Plan gratuito con funciones clave. |
-| 71 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | Autocompletado de código con IA. 100% gratuito. |
-| 62 | <img src="https://aws.amazon.com/codewhisperer/favicon.ico" width="32" height="32" /> | [CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Generación IA de código para desarrolladores AWS. Gratis individual. |
+| 61 | <img src="https://miro.medium.com/v2/resize:fit:700/0*oRRpMJ9XqkRnYLhW.png" width="32" height="32" /> | [GitHub Copilot](https://github.com/features/copilot) | Sugerencias inteligentes de código. Freemium |
+| 62 | <img src="https://www.phind.com/favicon.ico" width="32" height="32" /> | [Phind](https://www.phind.com/) | Buscador con IA especializado en desarrollo y código. Gratis. |
+| 63 | <img src="https://codeium.com/favicon.ico" width="32" height="32" /> | [Codeium](https://codeium.com/) | Autocompletado de código en tiempo real. Gratuito. |
+| 64 | <img src="https://yt3.googleusercontent.com/ytc/AIdro_kSrqK1IUyvh5VLOLOwS6ftTocFvaAAkrdeusZBKGhOiB8=s900-c-k-c0x00ffffff-no-rj" width="32" height="32" /> | [Replit Ghostwriter](https://replit.com/) | Asistente de código para el entorno Replit. Freemium. |
+| 65 | <img src="https://cursor.so/favicon.ico" width="32" height="32" /> | [Cursor](https://www.cursor.so/) | Editor de código con IA integrada para desarrolladores. Freemium. |
+| 66 | <img src="https://www.tabnine.com/favicon.ico" width="32" height="32" /> | [Tabnine](https://www.tabnine.com/) | Asistente IA para completado de código. Gratuito con límites. |
+| 67 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh9Sf0SqPT2VtuDBBm5zi-Tg3MSHAMU9vDapVyhd_JzRs_LhqSuLq_kkCUOIHCOc3sGN0&usqp=CAU" width="32" height="32" /> | [CodeWhisperer](https://aws.amazon.com/codewhisperer/) | Generación IA de código para desarrolladores AWS. Gratis individual. |
+| 68 | <img src="https://www.blackbox.ai/favicon.ico" width="32" height="32" /> | [Blackbox AI](https://www.blackbox.ai/) | Chat orientado a programación, compatible con múltiples lenguajes. Versión gratuita disponible. |
+| 69 | <img src="https://www.askcodi.com/favicon.ico" width="32" height="32" /> | [AskCodi](https://www.askcodi.com/) | Generador de código, SQL, documentación y tests. Freemium. |
+| 70 | <img src="https://mixo.io/favicon.ico" width="32" height="32" /> | [Mixo](https://mixo.io/) | Crea webs en una frase usando IA. Freemium. |
 
 ## 🧑‍🏫 Generadores de Clases
 
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
+| 35 | <img src="https://megaprofe.es/favicon.ico" width="32" height="32" /> | [MegaProfe](https://megaprofe.es/) | Suite IA para docentes con chatbots expertos, generador de actividades y situaciones de aprendizaje, evaluación, mapas mentales y más.|
+| 34 | <img src="https://www.algoreducation.com/favicon.ico" width="32" height="32" /> | [Algor Education](https://www.algoreducation.com/es) | Plataforma educativa con IA que transforma contenidos (textos, audios, vídeos) en mapas conceptuales, flashcards, quizzes y resúmenes colaborativos.|
 | 71 | <img src="https://www.khanacademy.org/favicon.ico" width="32" height="32" /> | [Khanmigo](https://www.khanacademy.org/khan-labs) | Tutor virtual de Khan Academy para estudiantes y profesores. Acceso gratuito por invitación. |
 | 33 | <img src="https://www.socrative.com/favicon.ico" width="32" height="32" /> | [Socrative](https://www.socrative.com/) | Plataforma de evaluación con ayuda IA. Versión gratuita para profesores. |
 | 36 | <img src="https://www.edpuzzle.com/favicon.ico" width="32" height="32" /> | [Edpuzzle](https://www.edpuzzle.com/) | Plataforma para crear vídeos interactivos educativos. Gratis con funciones básicas. |
 | 37 | <img src="https://www.teachermatic.com/favicon.ico" width="32" height="32" /> | [Teachermatic](https://www.teachermatic.com/) | IA educativa que genera informes, rúbricas, lecciones. Tiene opción freemium. |
 | 38 | <img src="https://www.curipod.com/favicon.ico" width="32" height="32" /> | [Curipod](https://www.curipod.com/) | Genera actividades y presentaciones con IA. Ideal para enseñanza activa. |
-| 39 | <img src="https://classpoint.io/favicon.ico" width="32" height="32" /> | [ClassPoint AI](https://classpoint.io/) | Crea preguntas interactivas desde presentaciones PowerPoint. Versión gratuita con IA limitada. |
 | 40 | <img src="https://www.quizgecko.com/favicon.ico" width="32" height="32" /> | [QuizGecko](https://www.quizgecko.com/) | Crea cuestionarios automáticamente desde textos. Freemium con funciones útiles. |
-| 42 | <img src="https://chat.openai.com/favicon.ico" width="32" height="32" /> | [ChatGPT Study Mode](https://chat.openai.com/) | Modo educativo con preguntas socráticas para aprendizaje activo. Freemium. |
-| 43 | <img src="https://www.tome.app/favicon.ico" width="32" height="32" /> | [Tome AI](https://tome.app/) | Narrativa visual y presentaciones educativas con IA. Freemium. |
-| 45 | <img src="https://educhat.top/favicon.ico" width="32" height="32" /> | [EduChat](https://educhat.top/) | LLM open‑source para enseñanza socrática. Gratis. |
-| 46 | <img src="https://vocadapt.ai/favicon.ico" width="32" height="32" /> | [VocAdapt](https://vocadapt.ai/) | Personaliza contenido de aprendizaje según nivel lingüístico. Freemium. |
-| 47 | <img src="https://postshot.com/favicon.ico" width="32" height="32" /> | [Postshot](https://postshot.com/) | Crea modelos 3D desde vídeo para enseñanza. Freemium. |
-| 48 | <img src="https://onetask.ai/favicon.ico" width="32" height="32" /> | [OneTask](https://onetask.ai/) | Gestión de tareas con IA para perfiles neurodivergentes. Freemium. |
-| 49 | <img src="https://timesentry.ai/favicon.ico" width="32" height="32" /> | [TimeSentry](https://timesentry.ai/) | Control del tiempo y facturación con IA. Freemium. |
-
+| 38 | <img src="https://www.coursehero.com/favicon.ico" width="32" height="32" /> | [Course Hero](https://www.coursehero.com/?utm_source=toolify) | Biblioteca educativa con soluciones, tutorías y recursos. Plan gratuito limitado y suscripción Premier con desbloqueo de documentos y asistencia.|
+| 37 | <img src="https://to-teach.ai/favicon.ico" width="32" height="32" /> | [To Teach AI](https://to-teach.ai/) | Plataforma que genera en segundos planificaciones educativas, ejercicios y materiales personalizados a partir de más de 800 plantillas.|
 
 
 ## 🧠 Modelos y Código (Top 10)
-
 | Nº | Icono | Nombre | Descripción |
 |:--:|:-----:|:------:|:------------|
 | 81 | <img src="https://huggingface.co/favicon.ico" width="32" height="32" /> | [Mistral AI](https://huggingface.co/) | Modelos LLM open‑source en Hugging Face. Gratis. |
@@ -164,3 +149,6 @@
 | 24 | <img src="https://es.vectorizer.ai/favicon.ico" width="32" height="32" /> | [Vectorizer AI](https://es.vectorizer.ai/) | Herramienta de IA para convertir imágenes rasterizadas en gráficos vectoriales de alta calidad de forma automática y rápida. |
 | 29 | <img src="https://www.colossyan.com/favicon.ico" width="32" height="32" /> | [Colossyan](https://www.colossyan.com/) | Plataforma para crear vídeos explicativos a partir de guiones. Tiene opción freemium. |
 | 30 | <img src="https://www.lumen5.com/favicon.ico" width="32" height="32" /> | [Lumen5](https://www.lumen5.com/) | Convierte artículos o textos en vídeos animados. Plan gratuito con limitaciones. |
+| 44 | <img src="https://fathom.video/favicon.ico" width="32" height="32" /> | [Fathom.Video](https://fathom.video/) | Asistente de reuniones con IA que graba, transcribe y resume llamadas en Zoom, Google Meet y Teams. Extrae puntos clave, elementos de acción y permite compartir clips destacados. |
+| 47 | <img src="https://postshot.com/favicon.ico" width="32" height="32" /> | [Postshot](https://postshot.com/) | Crea modelos 3D desde vídeo para enseñanza. Freemium. |
+| 19 | <img src="https://www.educationalappstore.com/images/upload/13252-logo-merlin-ai.png" width="32" height="32" /> | [Merlin](https://www.getmerlin.in/es) | Extensión de IA que integra un asistente inteligente en cualquier sitio web para generar, resumir o explicar contenido de forma instantánea. |
