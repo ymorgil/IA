@@ -1,25 +1,12 @@
+- [PROMPT básico](#prompt-básico)
+- [PROMPT para cuestionarios](#prompt-para-cuestionarios)
 
-
- 
-Tabla de contenido
-#PROMPT BÁSICO	2
-# PROMPT PARA CUESTIONARIOS	3
-
-
-
-
- 
-Listado de IAS
-
-#PROMPT básico
+# PROMPT básico
 Actúa como un profesional del sector de la informática especializado en sistemas y aplicaciones. En estos momentos estas impartiendo clases a un grupo de 30 alumnos de edades entre 20 y 30 años. Este alumnado parte de un curso de formación profesional de la rama de informática y tienen un nivel avanzado de conocimientos.
 A continuación, quiero que me detalles información y explicación sobre: 
 
-
-
- 
 # PROMPT para cuestionarios
-Realizar un cuestionario de 10 preguntas de selección múltiple en formato gift en un solo archivo con las siguientes características:
+Realizar un cuestionario de 20 preguntas de selección múltiple en formato gift en un solo archivo con las siguientes características:
 - Las preguntas están enumeradas a partir del número 100 se enumera antes del enunciado de la pregunta con :: Número::
 - Cada pregunta tiene cuatro opciones y las opciones deben de estar entre llaves {}.
 - Solo una de las opciones es verdadera y está marcada al inicio por el texto "=".
